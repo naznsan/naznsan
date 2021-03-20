@@ -1,4 +1,4 @@
-# Justin Kim's Profile 👋
+# 👋 Justin Kim's Profile
 
 I'm a Web Developer based in Auckland, NZ.
 
@@ -10,7 +10,7 @@ In my spare time I like to read, build plastic models, or go the gym.
 
 ---
 
-## Some of my stuff
+## 🔎 Some of my stuff
 
 ### Pomo-Todo
 [Github Repo](https://github.com/naznsan/pomotodo)  
@@ -19,7 +19,7 @@ It taught me the basics of working with a framework such as React, as well as us
 
 ---
 
-## I'm currently working on...
+## 🧑🏻‍💻 I'm currently working on...
 
 ### Footprint Podiatry
 [Link coming soon...]()  
