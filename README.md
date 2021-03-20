@@ -4,6 +4,10 @@ I'm a Web Developer based in Auckland, NZ.
 
 At the moment, I'm doing some freelance work while studying for my Postgraduate Diploma at the University of Auckland.
 
+I'm interested in software and web development, mainly in the frontend side of things.
+
+In my spare time I like to read, build plastic models, or go the gym.
+
 ---
 
 ## Some of my stuff
