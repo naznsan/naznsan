@@ -22,7 +22,7 @@ It taught me the basics of working with a framework such as React, as well as us
 ## 🧑🏻‍💻 I'm currently working on...
 
 ### Footprint Podiatry
-[Link coming soon...]()  
+[Temporary Link](https://footprintpodiatrydevelopment.netlify.app/)  
 Footprint Podiatry is a local podiatry clinic that I am currently developing a website for, using Gatsby and React.  
 During the process of developing this website, I am learning a lot about freelancing, and communicating with a client, as well as how to design a website for a specific client.  
 I hope to be able to complete it soon, and also learn about how to host a site in a VPS, along with connecting it to a domain.
