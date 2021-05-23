@@ -22,10 +22,16 @@ It taught me the basics of working with a framework such as React, as well as us
 ## 🧑🏻‍💻 I'm currently working on...
 
 ### Footprint Podiatry
-[Temporary Link](https://footprintpodiatrydevelopment.netlify.app/)  
+[Link to Site](https://footprintpodiatry.co.nz/)  
 Footprint Podiatry is a local podiatry clinic that I am currently developing a website for, using Gatsby and React.  
 During the process of developing this website, I am learning a lot about freelancing, and communicating with a client, as well as how to design a website for a specific client.  
-I hope to be able to complete it soon, and also learn about how to host a site in a VPS, along with connecting it to a domain.
+I am currently in the process of adding some final edits, cleaning up the layout here and there.
+
+### Aleph Tav Studios
+[Link to Site](https://alephtavstudios.com)
+Aleph Tav Studios is a local art and illustrations studio that I am developing a website for, using NextJS and React.  
+During the process of developing this website, I am learning about working with NextJS, optimizing larger images, and implementing other people's designs into my work.  
+I am currently in the process of optimizing the load times of images, as well as SEO.
 
 
 
