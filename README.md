@@ -28,7 +28,7 @@ During the process of developing this website, I am learning a lot about freelan
 I am currently in the process of adding some final edits, cleaning up the layout here and there.
 
 ### Aleph Tav Studios
-[Link to Site](https://alephtavstudios.com)
+[Link to Site](https://alephtavstudios.com)  
 Aleph Tav Studios is a local art and illustrations studio that I am developing a website for, using NextJS and React.  
 During the process of developing this website, I am learning about working with NextJS, optimizing larger images, and implementing other people's designs into my work.  
 I am currently in the process of optimizing the load times of images, as well as SEO.
