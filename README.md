@@ -6,7 +6,7 @@ At the moment I'm currently working as a Software Developer at Microsoft.
 
 I'm interested in software and web development, mainly in the frontend side of things.
 
-In my spare time I like to read, build plastic models, or go the gym.
+In my spare time I like to read, tinker with electronics, or go the gym.
 
 ---
 
