@@ -2,7 +2,7 @@
 
 I'm a Web Developer based in Auckland, NZ.
 
-At the moment, I'm doing some freelance work while studying for my Postgraduate Diploma at the University of Auckland.
+At the moment I'm currently working as a Software Developer at Microsoft.
 
 I'm interested in software and web development, mainly in the frontend side of things.
 
@@ -16,10 +16,6 @@ In my spare time I like to read, build plastic models, or go the gym.
 [Github Repo](https://github.com/naznsan/pomotodo)  
 Pomo-Todo was the first project I did while learning React. I worked on it back when funcitonal components and hooks were still in beta, so it's a little outdated now.  
 It taught me the basics of working with a framework such as React, as well as using services like Netlify to host the apps that I made.
-
----
-
-## 🧑🏻‍💻 I'm currently working on...
 
 ### Footprint Podiatry
 [Link to Site](https://footprintpodiatry.co.nz/)  
