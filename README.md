@@ -4,11 +4,14 @@ I'm a Web Developer based in Auckland, NZ.
 
 At the moment I'm currently working as a Software Developer at Microsoft.
 
-I'm interested in software and web development, mainly in the frontend side of things.
-
 In my spare time I like to read, tinker with electronics, or go the gym.
 
----
+## ⏳ Career & Education
+- **2021 - Present** Microsoft Nuance
+- **2020 - 2021** Freelance Web Development
+    - Worked on two projects, see below!
+- **2017 - 2020** Bachelor of Science at University of Auckland
+    - Majoring in Computer Science & Logic and Computations
 
 ## 🔎 Some of my stuff
 
@@ -29,6 +32,9 @@ Aleph Tav Studios is a local art and illustrations studio that I am developing a
 During the process of developing this website, I am learning about working with NextJS, optimizing larger images, and implementing other people's designs into my work.  
 I am currently in the process of optimizing the load times of images, as well as SEO.
 
+## ✉️ Contact Me
+- naznsan@gmail.com
+- [Discord](discordapp.com/users/naznsan)
 
 
 <!--
