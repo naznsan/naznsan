@@ -7,10 +7,10 @@ At the moment I'm currently working as a Software Developer at Microsoft.
 In my spare time I like to read, tinker with electronics, or go the gym.
 
 ## ⏳ Career & Education
-- **2021 - Present** Microsoft Nuance
-- **2020 - 2021** Freelance Web Development
+- **2021 - Present** Software Developer at Microsoft Nuance
+- **2019 - 2020** Freelance Web Development
     - Worked on two projects, see below!
-- **2017 - 2020** Bachelor of Science at University of Auckland
+- **2017 - 2019** Bachelor of Science at University of Auckland
     - Majoring in Computer Science & Logic and Computations
 
 ## 🔎 Some of my stuff
