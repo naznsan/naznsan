@@ -2,7 +2,7 @@
 
 I'm a Software Developer based in Auckland, NZ, mainly working with .NET, but also a bit of React and JavaScript.
 
-In my spare time I like to read, tinker with electronics, or go the gym.
+In my spare time I like to go out for some photography, read, or watch stupidly funny comedy movies.
 
 ## ⏳ Career & Education
 - **2021 - Present** Software Developer at Microsoft Nuance
@@ -12,7 +12,6 @@ In my spare time I like to read, tinker with electronics, or go the gym.
     - Majoring in Computer Science & Logic and Computations
 
 ## 🔎 Some of my stuff
-
 ### Pomo-Todo
 [Github Repo](https://github.com/naznsan/pomotodo)  
 Pomo-Todo was the first project I did while learning React. I worked on it back when funcitonal components and hooks were still in beta, so it's a little outdated now.  
