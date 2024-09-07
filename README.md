@@ -34,7 +34,7 @@ I am currently in the process of optimizing the load times of images, as well as
 
 ## ✉️ Contact Me
 - naznsan@gmail.com
-- [Discord](discordapp.com/users/naznsan)
+- [Discord](https://discordapp.com/users/naznsan)
 
 
 <!--
