@@ -1,8 +1,6 @@
 # 👋 Justin Kim's Profile
 
-I'm a Software Developer based in Auckland, NZ.
-
-At the moment I'm currently working as a Software Developer at Microsoft.
+I'm a Software Developer based in Auckland, NZ, mainly working with .NET, but also a bit of React and JavaScript.
 
 In my spare time I like to read, tinker with electronics, or go the gym.
 
