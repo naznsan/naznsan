@@ -1,8 +1,8 @@
 # Justin (Junghyun) Kim
 
 ## 👦 About Me
-My name is Justin and I am currently working as a software developer in Auckland, NZ.
-At the moment, I'm mostly working on backend services that will be used in medical environments for automated transcriptions with voice recognition.
+My name is Justin and I am now based in Melbourne, AU.
+At the moment, I am looking for my next exciting oppurtunity after having moved here from Auckland in February 2025.
 
 I consider myself a very outgoing and social person, and strive in collaborative environments where I can work with others to find efficient solutions to challenges.
 
@@ -10,7 +10,7 @@ In my spare time, I like to read or work with electronics and my 3D printer to c
 I also enjoy staying active by going to the gym, going on long treks, or playing tennis with my mates.
 
 ## ⏳️ Experience
-### Microsoft (2023 - Present)
+### Microsoft (2023 - 2025)
 - Implementing backend cloud services with .NET using Azure services such as Blob Storage, CosmosDB, and Service Bus
 - Automating testing, building, signing, and deploying of our microservices through Azure DevOps Pipelines
 - Mentoring colleague from different industry on web development
