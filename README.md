@@ -9,7 +9,7 @@ I consider myself a very outgoing and social person, and strive in collaborative
 In my spare time, I like to read or work with electronics and my 3D printer to create sometimes janky hardware solutions to various problems I might have.
 I also enjoy staying active by going to the gym, going on long treks, or playing tennis with my mates.
 
-## ⏳️ Experience
+## 📝 Experience
 ### Microsoft (2023 - 2025)
 - Implementing backend cloud services with .NET using Azure services such as Blob Storage, CosmosDB, and Service Bus
 - Automating testing, building, signing, and deploying of our microservices through Azure DevOps Pipelines
