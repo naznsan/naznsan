@@ -1,50 +1,41 @@
-# 👋 Justin Kim's Profile
+# Justin (Junghyun) Kim
 
-I'm a Software Developer based in Auckland, NZ, mainly working with .NET, but also a bit of React and JavaScript.
+## 👦 About Me
+My name is Justin and I am currently working as a software developer in Auckland, NZ.
+At the moment, I'm mostly working on backend services that will be used in medical environments for automated transcriptions with voice recognition.
 
-In my spare time I like to go out for some photography, read, or watch stupidly funny comedy movies.
+I consider myself a very outgoing and social person, and strive in collaborative environments where I can work with others to find efficient solutions to challenges.
 
-## ⏳ Career & Education
-- **2021 - Present** Software Developer at Microsoft Nuance
-- **2019 - 2020** Freelance Web Development
-    - Worked on two projects, see below!
-- **2017 - 2019** Bachelor of Science at University of Auckland
-    - Majoring in Computer Science & Logic and Computations
+In my spare time, I like to read or work with electronics and my 3D printer to create sometimes janky hardware solutions to various problems I might have.
+I also enjoy staying active by going to the gym, going on long treks, or playing tennis with my mates.
 
-## 🔎 Some of my stuff
-### Pomo-Todo
-[Github Repo](https://github.com/naznsan/pomotodo)  
-Pomo-Todo was the first project I did while learning React. I worked on it back when funcitonal components and hooks were still in beta, so it's a little outdated now.  
-It taught me the basics of working with a framework such as React, as well as using services like Netlify to host the apps that I made.
+## ⏳️ Experience
+### Microsoft (2023 - Present)
+- Implementing backend cloud services with .NET using Azure services such as Blob Storage, CosmosDB, and Service Bus
+- Automating testing, building, signing, and deploying of our microservices through Azure DevOps Pipelines
+- Mentoring colleague from different industry on web development
+- Writing and sharing technological documentation to help other teams that may be doing similar work to our team
 
-### Footprint Podiatry
-[Link to Site](https://footprintpodiatry.co.nz/)  
-Footprint Podiatry is a local podiatry clinic that I am currently developing a website for, using Gatsby and React.  
-During the process of developing this website, I am learning a lot about freelancing, and communicating with a client, as well as how to design a website for a specific client.  
-I am currently in the process of adding some final edits, cleaning up the layout here and there.
+### Nuance (2021 - 2023)
+- Patching security vulnerabilities for various products both client-facing and backend
+- Working on new features for desktop applications built with .NET and WPF
 
-### Aleph Tav Studios
-[Link to Site](https://alephtavstudios.com)  
-Aleph Tav Studios is a local art and illustrations studio that I am developing a website for, using NextJS and React.  
-During the process of developing this website, I am learning about working with NextJS, optimizing larger images, and implementing other people's designs into my work.  
-I am currently in the process of optimizing the load times of images, as well as SEO.
+### Freelance Experience (2019 - 2020)
+- Developing front end sites using React framework
+- Managing projects and deployments
+- Efficiently communicating with clients and implementing constant feedback loop
 
-## ✉️ Contact Me
-- naznsan@gmail.com
-- [Discord](https://discordapp.com/users/naznsan)
+## 🏫 Education
+- **(2019)** BSc in Computer Science at University of Auckland
+- **(2019)** BSc in Logics and Computations at University of Auckland
 
-
-<!--
-**naznsan/naznsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⌨️ Technologies and Skills
+- Development
+    - C#, .NET
+    - Azure services such as DevOps Pipelines, Container Registry, CosmosDB, Service Bus
+    - Containerization services such as Docker and Kubernetes
+    - Web development with HTML, CSS, JavaScript, ReactJS
+    - Project management tools such as Git, Azure DevOps
+- Soft Skills
+    - Effective communication and knowledge retainment through clear and concise documentation
+    - Ability to give and take feedback, and being able to constantly improve myself by actioning on the feedback received
