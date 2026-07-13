@@ -10,6 +10,9 @@ In my spare time, I like to read or work with electronics and my 3D printer to c
 I also enjoy staying active by going to the gym, going on long treks, or playing tennis with my mates.
 
 ## 📝 Experience
+### ROLLER (2025 - 2026)
+- Full stack development with .NET backend and Angular/AngularJS frontend
+
 ### Microsoft (2023 - 2025)
 - Implementing backend cloud services with .NET using Azure services such as Blob Storage, CosmosDB, and Service Bus
 - Automating testing, building, signing, and deploying of our microservices through Azure DevOps Pipelines
@@ -34,7 +37,7 @@ I also enjoy staying active by going to the gym, going on long treks, or playing
     - C#, .NET
     - Azure services such as DevOps Pipelines, Container Registry, CosmosDB, Service Bus
     - Containerization services such as Docker and Kubernetes
-    - Web development with HTML, CSS, JavaScript, ReactJS
+    - Web development with HTML, CSS, JavaScript, ReactJS, Angular
     - Project management tools such as Git, Azure DevOps
 - Soft Skills
     - Effective communication and knowledge retainment through clear and concise documentation
